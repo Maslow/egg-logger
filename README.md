@@ -1,3 +1,6 @@
+# Fork Reason
+For hacking the egg-logger: add call stack info to log data.
+
 # egg-logger
 
 [![NPM version][npm-image]][npm-url]
